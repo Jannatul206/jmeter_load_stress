@@ -1,0 +1,15 @@
+# JMeter result files
+*.jtl
+dmoney.jtl
+
+# JMeter Reports
+Reports/
+LoadTestReport/
+StressTestReport/
+
+# Generated Reports
+**/content/
+**/sbadmin2-1.0.7/
+
+# Other
+jmeter.log

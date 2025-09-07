@@ -186,11 +186,11 @@ rm Results/*.jtl
 
 ### 8. Excel Report - Load Test Tab
 [📊 View Load Test Results in Excel][link]
-*Figure 8: Load test report from Excel showing all test phases*
+
 
 ### 9. Excel Report - Stress Test Tab
 [📊 View Stress Test Results in Excel][link]
-*Figure 9: Stress test report from Excel with bottleneck analysis*
+
 
 
 

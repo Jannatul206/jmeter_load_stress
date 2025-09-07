@@ -185,12 +185,11 @@ rm Results/*.jtl
 
 
 ### 8. Excel Report - Load Test Tab
-![Excel Load Test][link]
-![Excel spreadsheet displaying load test results for Booking API. The sheet shows columns for test phase, number of users, duration, requests per second, average response time, and error rate. Data is organized in rows for each test phase, highlighting performance metrics and trends. The environment is a standard Excel interface with gridlines and colored headers. The tone is analytical and focused on performance measurement.]
+[📊 View Load Test Results in Excel][link]
 *Figure 8: Load test report from Excel showing all test phases*
 
 ### 9. Excel Report - Stress Test Tab
-![Excel Stress Test][link]
+[📊 View Stress Test Results in Excel][link]
 *Figure 9: Stress test report from Excel with bottleneck analysis*
 
 
